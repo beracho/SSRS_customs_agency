@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Vilaseca Reports", "Vilaseca Reports\Vilaseca Reports.rptproj", "{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}.Debug|Default.ActiveCfg = Debug
+		{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}.Debug|Default.Build.0 = Debug
+		{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}.Debug|Default.Deploy.0 = Debug
+		{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}.DebugLocal|Default.Build.0 = DebugLocal
+		{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}.Release|Default.ActiveCfg = Release
+		{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}.Release|Default.Build.0 = Release
+		{4F33EC0D-90AC-4CB0-9E31-86D2CF38182C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811F3B20-AACB-4525-880E-DAA54AA3B333}
+	EndGlobalSection
+EndGlobal
